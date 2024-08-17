@@ -1,0 +1,24 @@
+body{
+    font-family: "Bahnschrift";
+    background-color: black
+}
+
+.timer-container{
+    background-color: #17153B;
+    box-shadow: 0 0 5px lightgray;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin-top: 20%;
+    box-shadow:  ;
+
+
+}
+
+
+
+h1{
+    color: lightgray;
+    text-align: center;
+    font-size: 120px;
+    margin: 0;
+}
